@@ -1,0 +1,18 @@
+# Configuração do tema Streamlit
+[theme]
+paddingTop = "0.0rem"
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#2563eb"              # Azul royal moderno para sliders, multiselect, botões e tabs
+backgroundColor = "#f8fafc"           # Fundo neutro suave (slate-50)
+secondaryBackgroundColor = "#f1f5f9"    # Fundo da sidebar e cartões (slate-100)
+textColor = "#1e293b"                 # Texto escuro elegante (slate-800)
+borderColor = "#cbd5e1"
+
+[theme.dark]
+primaryColor = "#3b82f6"              # Azul vibrante no dark mode
+backgroundColor = "#0f172a"           # Slate-900
+secondaryBackgroundColor = "#1e293b"    # Slate-800
+textColor = "#f8fafc"                 # Slate-50
+borderColor = "#334155"
